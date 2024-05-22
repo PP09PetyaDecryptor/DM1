@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["😺DM spam bots", "🤪link soon", "🤑Buy at tickets"];
+const statusMessages = ["😺typ bez majtek", "🤪cheap members", "🤑LG logo 1995"];
 
 
 let currentIndex = 0;
